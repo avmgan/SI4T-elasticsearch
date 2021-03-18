@@ -8,7 +8,7 @@
 <artifactId>si4t-elastic</artifactId>
 <version>1.0</version>
 <properties>
-    <elastic.version>6.2.2</elastic.version>
+    <elastic.version>7.11.2</elastic.version>
     <si4t.version>1.2</si4t.version>
     <gson.version>2.2.2</gson.version>
     <tridion.version>8.5.0</tridion.version>
